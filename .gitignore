@@ -1,0 +1,19 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+venv/
+
+# Logs & generated output
+*.log
+EGX_*.xlsx
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
